@@ -94,3 +94,6 @@
     font-weight: bold;
     color: white;
 }
+.submit-button:hover {
+    background-color: #50B7B1;
+}
